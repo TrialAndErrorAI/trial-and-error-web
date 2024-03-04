@@ -11,7 +11,8 @@ const nextConfig = {
       protocol:'https',
       hostname: 'trialanderror.ai'
     }]
-  }
+  },
+  distDir: 'out'
 };
 
 module.exports = nextConfig;
