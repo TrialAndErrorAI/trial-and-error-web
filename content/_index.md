@@ -33,7 +33,7 @@ services:
     button:
       enable: true
       label: Explore Vox AI
-      link: /vox-ai
+      link: https://apps.apple.com/us/app/vox-ai-cover-songs-music/id6469916734
 
   - title: "Renovate AI: Virtual Design Companion"
     content: "Redefine your living spaces effortlessly with Renovate AI, our AI-powered virtual interior design app."
@@ -42,7 +42,7 @@ services:
     button:
       enable: true
       label: Try Renovate AI
-      link: /renovate-ai
+      link: https://renovateai.app/
 
 # workflow
 workflow:
