@@ -12,7 +12,6 @@ const nextConfig = {
       hostname: 'trialanderror.ai'
     }]
   },
-  distDir: 'out'
 };
 
 module.exports = nextConfig;
